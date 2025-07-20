@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Shristi Singhal
 
-<!--
-**Shristi959/Shristi959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MBA (Marketing) | Growth Specialist | Passionate about Product & Brand Marketing  
+📍 Based in Delhi NCR | Ex-Sony Pictures Networks Intern | Jagriti Yatra 2024 Alum  
+🌱 Building "Mars Cab" – an EV startup concept challenging global brands like Tesla  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience Snapshot
+- 🎬 **Sony Pictures Networks India** – Created go-to-market strategy for Sony Max 1’s launch  
+- 🚀 **3DOT14 Technologies** – Growth Specialist working on branding and user growth  
+- 🌍 **Jagriti Yatra 2024** – One of 500 selected from 50,000+ for India’s most prestigious entrepreneurial journey  
+- 🏁 Participated in Google Build & Blog Marathon (2024)
+
+---
+
+### 🧠 Interests & Skills
+- 📈 Product & Performance Marketing  
+- 🎯 Brand Campaigns & Strategy  
+- 📊 Marketing Analytics & Consumer Behavior  
+- 📂 Content Strategy | Paid Ads | Digital Campaigns
+
+---
+
+### 📌 Featured Projects *(Coming Soon)*
+- 🔹 Sony Max 1 Marketing Campaign – Research, GTM Strategy, Regional Rollout Plan  
+- 🔹 Dabur vs Patanjali Brand Case Study – FMCG rivalry deep dive  
+- 🔹 Mars Cab – EV brand campaign, targeting festive season launches  
+- 🔹 30-Day Marketing Learning Challenge (LinkedIn content series)
+
+---
+
+### 📫 Let’s Connect!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shristi-singhal-476a8622b/)
+- ✉️ shristisinghal@gmail.com  
+- 📍 Delhi NCR | Open to internship and full-time roles in marketing
+
+---
