@@ -32,7 +32,7 @@
 
 ### 📫 Let’s Connect!
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shristi-singhal-476a8622b/)
-- ✉️ shristisinghal@gmail.com  
+- ✉️ singhalshristi47@gmail.com  
 - 📍 Delhi NCR | Open to internship and full-time roles in marketing
 
 ---
