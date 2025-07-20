@@ -2,7 +2,6 @@
 
 🎓 MBA (Marketing) | Growth Specialist | Passionate about Product & Brand Marketing  
 📍 Based in Delhi NCR | Ex-Sony Pictures Networks Intern | Jagriti Yatra 2024 Alum  
-🌱 Building "Mars Cab" – an EV startup concept challenging global brands like Tesla  
 
 ---
 
