@@ -7,8 +7,7 @@
 ---
 
 ### 💼 Experience Snapshot
-- 🎬 **Sony Pictures Networks India** – Created go-to-market strategy for Sony Max 1’s launch  
-- 🚀 **3DOT14 Technologies** – Growth Specialist working on branding and user growth  
+- 🎬 **Sony Pictures Networks India** – Created go-to-market strategy for Sony Max 1’s launch    
 - 🌍 **Jagriti Yatra 2024** – One of 500 selected from 50,000+ for India’s most prestigious entrepreneurial journey  
 - 🏁 Participated in Google Build & Blog Marathon (2024)
 
@@ -24,8 +23,7 @@
 
 ### 📌 Featured Projects *(Coming Soon)*
 - 🔹 Sony Max 1 Marketing Campaign – Research, GTM Strategy, Regional Rollout Plan  
-- 🔹 Dabur vs Patanjali Brand Case Study – FMCG rivalry deep dive  
-- 🔹 Mars Cab – EV brand campaign, targeting festive season launches  
+- 🔹 Dabur vs Patanjali Brand Case Study – FMCG rivalry deep dive   
 - 🔹 30-Day Marketing Learning Challenge (LinkedIn content series)
 
 ---
